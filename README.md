@@ -1,6 +1,6 @@
 # restmvcnetapi
 
-This was me building my first REST API the ASP.NET Core MVC framework. It was also my first experience with .NET and C#. Also used is a Microsoft SQL server for backend (w/SSMS).
+This was me building my first REST API with the ASP.NET Core MVC framework. It was also my first experience with .NET and C#. Also used is a Microsoft SQL server for backend (w/SSMS).
 
 I learned about dependency injection, the Entity Framework Core (DBContext), DTOs, RESTful API guidelines, testing API endpoints with Postman, and deploying an RDS with SQL Server Express and SSMS.
 
